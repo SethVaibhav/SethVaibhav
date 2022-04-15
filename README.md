@@ -2,7 +2,7 @@
 - 👀 I’m interested in Exploring New technologies in Software Field.
 - 🌱 I’m currently learning Data Structures and Alogrithms and MERN Stack
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... sethvofficial@gmail.com
 
 <!---
 SethVaibhav/SethVaibhav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
